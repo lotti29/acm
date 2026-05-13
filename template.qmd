@@ -479,7 +479,7 @@ more images can be placed within a figure. If your figure contains
 third-party material, you must clearly identify it as such, as shown
 in the example below.
 
-![1907 Franklin Model D roadster. Photograph by Harris \& Ewing, Inc. [Public domain], via Wikimedia Commons. (<https://goo.gl/VLCRBB>).](sample-franklin.png){#fig-dresses fig-alt="A woman and a girl in white dresses sit in an open car."}
+![1907 Franklin Model D roadster. Photograph by Harris \& Ewing, Inc. [Public domain], via Wikimedia Commons. (<https://goo.gl/VLCRBB>).](sample-franklin.png)
 
 Your figures should contain a caption which describes the figure to
 the reader.
