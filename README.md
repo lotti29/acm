@@ -1,6 +1,10 @@
 # Template Info
 
+<<<<<<< HEAD
 This is a fork of the existing ACM quarto template (https://github.com/quarto-journals/acm). It incorporates an open PR by cderv (https://github.com/quarto-journals/acm/pull/39) that fixes some problems with the current version, namely:
+=======
+This is a fork of the existing ACM quarto template (https://github.com/quarto-journals/acm). It incorporates an open PR by cderv that fixes some problems with the current version, namely:
+>>>>>>> df966f04124ef9e8a0e30c67fc13e5a41c30f4eb
 - alt text causing render failure (see below)
 - outdated .cls and .bst files
 - .cls and .bst configuration in the _extension.yml
