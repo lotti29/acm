@@ -4,3 +4,6 @@
 /.luarc.json
 
 .DS_Store
+
+.Rproj.user
+.positai
