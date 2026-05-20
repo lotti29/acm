@@ -1,3 +1,16 @@
+# Template Info
+
+This is a fork of the existing ACM quarto template (https://github.com/quarto-journals/acm). It incorporates an open PR by cderv that fixes some problems with the current version, namely:
+- alt text causing render failure (see below)
+- outdated .cls and .bst files
+- .cls and .bst configuration in the _extension.yml
+- Libertinus fonts not being installed
+- incorrect DOI formatting
+
+The template.qmd should now render out of the box. 
+
+Note that the alt text fix is not a true fix, as it only prevents the faulty conversion of fig-alt into ACM's `\Description{}` format. Images in rendered PDFs will therefore not have any `\Description{}` - this may need to be added manually to the .tex file before submission.
+
 # Association of Computing Machinery (ACM)
 
 This Quarto format will help you create documents for the Association of Computing Machinery. To learn more about ACM publications, see [ACM's Information for Authors page](https://www.acm.org/publications/authors/information-for-authors). For more about Quarto and how to use format extensions, see <https://quarto.org/docs/journals/>.
